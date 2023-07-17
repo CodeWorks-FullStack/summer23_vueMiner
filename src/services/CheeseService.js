@@ -1,5 +1,6 @@
 import { AppState } from "../AppState.js"
 
+// NOTE nothing has really changed here other than the fact that we no longer have to emit to have our listeners triggered
 class CheeseService {
   mineCheese() {
     AppState.cheese++
