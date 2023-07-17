@@ -1,6 +1,6 @@
 <template>
   <header>
-    <!-- NOTE injects all of the code from our Navbar.vue and injects it here -->
+    <!-- NOTE injects all of the code from our Navbar.vue-->
     <Navbar />
   </header>
   <main>
